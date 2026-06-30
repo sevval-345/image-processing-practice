@@ -1,9 +1,11 @@
-Görüntü İşleme ve Analiz Uygulamaları
+GÖRÜNTÜ İŞLEME VE ANALİZ UYGULAMASI
+
 Bu proje, görüntü işleme dünyasına giriş yapmak, temel manipülasyon tekniklerini öğrenmek ve görüntü verilerini makine öğrenmesi modelleriyle sınıflandırmak için geliştirilmiş kapsamlı bir çalışma setidir.  
 PY
 📋 Proje İçeriği ve Yapılan İşlemler
+
 Proje kapsamında gerçekleştirilen temel işlemler şunlardır:
-1. Veri Hazırlama ve Görselleştirme
+1. Veri Hazırlama ve Görselleştirme 
 Veri Setleri: scipy (gerçek fotoğraflar) ve sklearn (el yazısı rakamlar) veri setlerinin yüklenmesi.  
 PY
 Kanal Ayrıştırma: Renkli görüntülerin (RGB) kırmızı, yeşil ve mavi kanallarına ayrıştırılarak bağımsız incelenmesi.  
